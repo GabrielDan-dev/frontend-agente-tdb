@@ -63,14 +63,6 @@ src/
 └── App.tsx
 ```
 
-## ▶️ Como Executar
-
-```bash
-git clone https://github.com/seu-usuario/agente-tdb.git
-cd agente-tdb
-npm install
-npm run dev
-```
 
 Acesse `http://localhost:5173` no navegador.
 
@@ -150,22 +142,11 @@ O login administrativo utiliza `sessionStorage` para simular uma sessão autenti
 
 [Repositório do Projeto](https://github.com/seu-usuario/agente-tdb)
 
-## 📝 Sugestão de Commits
+## ▶️ Como Executar
 
-```
-feat: configuração inicial do projeto React + Vite + TypeScript
-feat: design system com TailwindCSS
-feat: componentes reutilizáveis (Header, Footer, Card, Button, Section)
-feat: página Home com hero section
-feat: página Integrantes com cards
-feat: página Sobre com informações da ONG
-feat: página FAQ com accordion
-feat: formulário de Contato com React Hook Form
-feat: página Solução com benefícios e fluxo
-feat: React Router DOM com SPA
-feat: formulários de participação (Voluntário, Dentista, Beneficiário, Doação, Atendimento)
-feat: área administrativa com CRUD simulado
-feat: login administrativo com autenticação simulada
-feat: dashboard com indicadores e tabelas
-docs: README.md com documentação completa
+```bash
+git clone https://github.com/seu-usuario/agente-tdb.git
+cd agente-tdb
+npm install
+npm run dev
 ```

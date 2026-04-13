@@ -140,12 +140,12 @@ O login administrativo utiliza `sessionStorage` para simular uma sessão autenti
 
 ## 🔗 GitHub
 
-[Repositório do Projeto](https://github.com/seu-usuario/agente-tdb)
+[Repositório do Projeto](https://github.com/GabrielDan-dev/frontend-agente-tdb)
 
 ## ▶️ Como Executar
 
 ```bash
-git clone https://github.com/seu-usuario/agente-tdb.git
+git clone https://github.com/GabrielDan-dev/frontend-agente-tdb
 cd agente-tdb
 npm install
 npm run dev
